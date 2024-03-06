@@ -1,6 +1,6 @@
 <h2> Hi, I'm Sergio Andres! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://pbs.twimg.com/profile_images/1179761931030282246/__sFHSAB_400x400.jpg" width="230">
-<p><em></br>Software engineer at <a href="https://unblockia.com/">Unblockia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software engineer at <a href="https://exte.com/">EXTE</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: seergioo6](https://img.shields.io/twitter/follow/seergioo6?style=social)](https://twitter.com/seergioo6)
